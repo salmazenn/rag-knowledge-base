@@ -1,3 +1,23 @@
+---
+title: RAG Knowledge Base
+emoji: 💬
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+pinned: false
+tags:
+  - rag
+  - knowledge-base
+  - customer-support
+  - groq
+  - langchain
+  - chromadb
+  - streamlit
+  - chatbot
+  - llm
+  - python
+---
+
 # 💬 RAG Knowledge Base — Customer Support Chatbot
 
 > Pre-indexed AI knowledge base for customer support — ask questions about your product without uploading files. Drop your PDFs in `/docs`, index once, answer forever. ⚡
